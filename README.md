@@ -6,8 +6,7 @@ I'm a computational physics student[^1] who spends most of his time solving ODEs
 
 Using the hyperbolic approximation of the Serre-Green-Naghdi equations to simulate realistic wave propagation over complex bathymetry.
 
-https://github.com/user-attachments/assets/652bec54-d202-4b72-98d1-b9e3d4d21fa1
-
+https://github.com/user-attachments/assets/a73e8c6f-aa29-4a69-9c8a-04d32b968d01
 
 ## 🚀 Open Source Contributions
 
