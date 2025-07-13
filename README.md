@@ -7,7 +7,10 @@ I'm a computational physics student[^1] who spends most of his time solving ODEs
 Using the hyperbolic approximation of the Serre-Green-Naghdi equations to simulate realistic wave propagation over complex bathymetry.
 
 
-Uploading Solitary_Wave_over_Gaussians.mp4…
+
+
+https://github.com/user-attachments/assets/912c303d-afaa-4dce-9b39-70fdc007ec92
+
 
 
 ## 🚀 Open Source Contributions
