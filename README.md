@@ -2,6 +2,8 @@
 
 I'm a computational physics student[^1] who spends most of his time solving ODEs and PDEs in Julia.
 
+contact: cwittens@mit.edu
+
 ## Recent project: 2D wave simulation
 
 Using the hyperbolic approximation of the Serre-Green-Naghdi equations to simulate realistic wave propagation over complex bathymetry.
